@@ -1,0 +1,26 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 220px;
+  background-color:darkolivegreen;
+}
+
+.sidenav .mat-toolbar {
+  background: inherit;
+  color:antiquewhite;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+}
+
+.titre {
+  margin: auto;
+  color: darkolivegreen;
+  font-size: 40px;
+  font-weight: 500;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
